@@ -3,13 +3,17 @@
 A lightweight GUI based on Windows VBS script that uses yt-dlp to download videos or playlists from YouTube and other supported platforms, with selectable resolution.
 
 ### Features
-* Can download a single video or an entire playlist.
+* Can download a single video or a playlist or a freakin whole channel.
 * Selectable videos from playlist.
 * Video or Audio download.
-* Selectable WEBM (default, fast) , MP3 (Converted, bit slow) options for audio.
-* Selectable quality (Best, Worst, 144p, 240p, 360p, 480p, 720p, 1080p, 1440p and 2160p)
-* Supports cookies (place cookies.txt inside the same folder)
-* Subtitles (Auto-generated and Manual both, selective as well)
+* Multiple formats for both Videos and Audio.
+* Selectable quality (Best, Worst, 144p, 240p, 360p, 480p, 720p, 1080p, 1440p, 2160p and 4320p).
+* Supports cookies (place cookies.txt inside the same folder).
+* Subtitles (Auto-generated and Manual both, selective)
+* Description Download.
+* Embedded Metadata.
+* Update Check. (Selectable)
+* Video overwrite protection.
 
 ### Requirements
 * Functional Brain

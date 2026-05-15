@@ -4,7 +4,7 @@ A lightweight GUI based on Windows VBS script that uses yt-dlp to download video
 
 ### Features
 * Can download a single video or a playlist or a freakin whole channel.
-* Selectable videos from playlist. (Only works for videos now, it's a YT-DLP issue btw)
+* Selectable videos from playlist. (It lists Videos, Shorts, Lives but download only works for videos now, it's a YT-DLP issue btw)
 * Video or Audio download.
 * Multiple formats for both Videos and Audio.
 * Selectable quality (Best, Worst, 144p, 240p, 360p, 480p, 720p, 1080p, 1440p, 2160p and 4320p).
